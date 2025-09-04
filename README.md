@@ -6,7 +6,7 @@ For me, programming is not just about solving problems but also about sharing id
 
 ---
 
-## 🔧 Tech I’ve used
+## Tech I’ve used
 - **Languages:** Go, Python, C/C++, TypeScript, JavaScript  
 - **Frameworks & Libraries:** React, Vite, Gin, Chi, FastAPI, Celery  
 - **Databases & Cloud:** PostgreSQL, Firebase, Redis, AWS, Google Cloud, Azure, DigitalOcean  
@@ -15,7 +15,7 @@ For me, programming is not just about solving problems but also about sharing id
 
 ---
 
-## 🚀 Projects
+## Projects
 Here are some of the projects I worked on recently:
 
 - [**InternAI**](https://internai.pro) → AI-powered platform helping students prepare for internships (FastAPI, React, Gemini API, Azure).  
