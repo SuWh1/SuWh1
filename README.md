@@ -24,12 +24,12 @@ Here are some of the projects I worked on recently:
 
 ---
 
-## 🌱 Currently  
+## Currently  
 - Improving at **backend development and scalable infrastructure**.  
 - Working on personal projects and preparing for upcoming internships.  
 
 ---
 
-## 📫 Connect
+## Connect
 - Email: apasdauren70@gmail.com  
 - LinkedIn: [linkedin.com/in/dauren-apas](https://linkedin.com/in/dauren-apas)  
