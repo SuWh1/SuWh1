@@ -1,8 +1,6 @@
 # Hi there, I’m Dauren 👋
 
 I’m a Computer Science student at Nazarbayev University.  
-I enjoy building web applications, exploring AI tools, and learning by creating projects with real-world use.  
-For me, programming is not just about solving problems but also about sharing ideas and working with people.  
 
 ---
 
