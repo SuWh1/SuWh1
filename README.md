@@ -5,9 +5,9 @@ CS @ Nazarbayev University. I build things that get used.
 ---
 
 **Currently**
-- 🏠 Full-stack dev @ Esep Home — ops platform
-- 🎓 Software dev @ ACM@NU — shipped 6 event sites, 3,500+ registrations
-- 📍 Astana, Kazakhstan
+- Full-stack dev @ Esep Home - ops platform
+- Software dev @ ACM@NU - shipped 6 event sites, 3,500+ registrations
+- Astana, Kazakhstan
 
 ---
 
