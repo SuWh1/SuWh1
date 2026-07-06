@@ -5,8 +5,8 @@ CS student at Nazarbayev University.
 ---
 
 **Currently**
-- Full-stack dev @ Esep Home - ops platform
-- Software dev @ ACM@NU - shipped 6 event sites, 3,500+ registrations
+- Software Engineer @ Esep Home - ops platform
+- Software Engineer @ ACM@NU - shipped 6 event sites, 3,500+ registrations
 - Astana, Kazakhstan
 
 ---
