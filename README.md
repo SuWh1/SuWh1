@@ -1,6 +1,6 @@
 # Dauren Apas
 
-CS student at Nazarbayev University. I build practical software that people actually use.
+CS student at Nazarbayev University.
 
 ---
 
