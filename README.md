@@ -37,8 +37,7 @@ CS student at Nazarbayev University.
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-%23C5F74F.svg?style=flat-square&logoColor=black)
+![BullMQ](https://img.shields.io/badge/BullMQ-EA433)
 
 ## Cloud & DevOps
 
