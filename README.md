@@ -1,6 +1,6 @@
 # Dauren Apas
 
-CS student at Nazarbayev University.
+Software Engineer
 
 ---
 
