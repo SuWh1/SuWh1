@@ -1,4 +1,4 @@
-# Dauren Apas <sub>Software Engineer</sub>
+# Dauren Apas <sub><sub>Software Engineer</sub></sub>
 
 ## Currently
 - Software Engineer @ Esep Home - ops platform
