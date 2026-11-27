@@ -1,15 +1,9 @@
-# Dauren Apas
+# Dauren Apas <sub>Software Engineer</sub>
 
-Software Engineer
-
----
-
-**Currently**
+## Currently
 - Software Engineer @ Esep Home - ops platform
 - Software Engineer @ ACM@NU - shipped 6 event sites, 3,500+ registrations
 - Astana, Kazakhstan
-
----
 
 ## Hackathons
 
@@ -35,21 +29,21 @@ Healthcare platform, out of **150+ teams**
 
 ---
 
-## Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-## Backend
+### Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-EA4335?style=flat-square&logoColor=white)
 
-## Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
@@ -58,13 +52,13 @@ Healthcare platform, out of **150+ teams**
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white)
 ![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logoColor=white)
 
-## Databases
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-## Cloud & DevOps
+### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -75,7 +69,7 @@ Healthcare platform, out of **150+ teams**
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## AI
+### AI
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=flat-square&logo=openai&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
