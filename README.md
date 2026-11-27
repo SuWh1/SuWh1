@@ -11,6 +11,30 @@ Software Engineer
 
 ---
 
+## Hackathons
+
+### 🥇 HackNU 2025 — 1st place
+<a href="https://github.com/SuWh1/SexyAldarKose"><img align="right" src="https://img.shields.io/badge/AldarKose-8957e5?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+Higgsfield ML case, out of **400+ teams**
+
+### 🥈 Decentrathon 2026 — 2nd place
+<img align="right" src="https://img.shields.io/badge/Legal%20Richard%20%C2%B7%20private-8957e5?style=for-the-badge&logo=github&logoColor=white"/>
+
+inDrive case on legislative entropy, **5,500+ participants**
+
+### 🥈 De-Vibed Hackathon — 2nd place
+<a href="https://github.com/Dimkaghb/Hacathon"><img align="right" src="https://img.shields.io/badge/Axel-21262d?style=flat-square&logo=github&logoColor=white"/></a>
+
+Command Center, out of **150+ teams**
+
+### 🥉 Terricon Valley — 3rd place
+<a href="https://github.com/SuWh1/richard-med"><img align="right" src="https://img.shields.io/badge/richard--med-21262d?style=flat-square&logo=github&logoColor=white"/></a>
+
+Healthcare platform, out of **150+ teams**
+
+---
+
 ## Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
